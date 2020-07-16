@@ -2,6 +2,8 @@
 import csv
 import argparse
 
+#This is cool and whatnot and more whatnot
+
 def main():
 
     parser = argparse.ArgumentParser(
@@ -30,3 +32,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+    
